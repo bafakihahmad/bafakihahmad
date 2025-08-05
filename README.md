@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi, I'am Ahmad 👋<br><br>
-- 🔭 I’m a third year computer science student at the University of Goldsmiths, London</br>
-- 🤔 Interested in machine learning and software development</br>
+- 🎓 Recent BSc Computer Science graduate from Goldsmiths, University of London</br>
+- 🎓 Incoming MSc Artificial Intelligence for Sustainable Development student at UCL</br>
+- 🤔 Interested in AI, Machine Learning, and Software Development</br>
 - 💬 Bilingual in both Arabic and English<br>
 - 📫 How to reach me: aybafakih@gmail.com<br>
 

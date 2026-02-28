@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'am Ahmad 👋<br><br>
+Hi, I'm Ahmad 👋<br><br>
 - 🎓 MSc Artificial Intelligence for Sustainable Development student at UCL</br>
 - 🎓 BSc Computer Science graduate from Goldsmiths, University of London</br>
 - 🤔 Interested in AI, Machine Learning, and Software Development</br>
